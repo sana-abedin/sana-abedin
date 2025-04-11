@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! I'm Sana 👋
 
-<!--
-**sana-abedin/sana-abedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 2nd-year B.Tech CSE student at Jamia Hamdard University.  
+🔭 Currently learning: **C++, Python, DSA, ML, Data Analytics, HTML, C**  
+🎨 I love blending technology with creativity through **digital art** and **craft projects**.  
+🤖 Deeply passionate about **robots**, **coding**, and **decor design**.  
+🌱 Always open to learning new tech and improving my skills.
 
-Here are some ideas to get you started:
+### 📫 How to reach me:
+- Email: sanaabedin0@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sana-abedin/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Fact:
+I used to take private drawing classes for kids!
